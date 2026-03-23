@@ -2,7 +2,7 @@
 
 ## This community repo contains materials to demonstrate a variety of scenarios for Bob
 
-The intial content is the set of labs that were delivered at **IBM TechXchange 2025**. These labs can all be accessed via walkthroughs inside Bob IDE.
+The intial content is the set of labs that were delivered at **IBM TechXchange 2026**. These labs can all be accessed via walkthroughs inside Bob IDE.
 
 ---
 
