@@ -1,0 +1,330 @@
+<!DOCTYPE html><html lang="en" dir="ltr" class="light"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="preload" as="image" href="/assets/404-bob-illustration-BOOW3JLR.svg"/><link rel="preload" as="image" href="/assets/404-bob-illustration-Cb4MlvTr.svg"/><link rel="preload" as="image" href="/icon.svg"/><link rel="preload" as="image" href="/icon-dark.svg"/><link rel="preconnect" href="https://1.www.s81c.com"/><link rel="preconnect" href="https://1.www.s81c.com" crossorigin="anonymous"/><link rel="icon" href="/favicon.ico" sizes="32x32"/><link rel="icon" href="/favicon.ico" sizes="32x32" media="(prefers-color-scheme: light)"/><link rel="icon" href="/favicon-dark.ico" sizes="32x32" media="(prefers-color-scheme: dark)"/><link rel="icon" href="/icon.svg" type="image/svg+xml"/><link rel="icon" href="/icon.svg" type="image/svg+xml" media="(prefers-color-scheme: light)"/><link rel="icon" href="/icon-dark.svg" type="image/svg+xml" media="(prefers-color-scheme: dark)"/><link rel="apple-touch-icon" href="/apple-touch-icon.png"/><title>404: Page not found | IBM Bob</title><meta name="description" content="We cannot find the page you&#x27;re looking for. The page might have been moved, deleted, or the URL might be incorrect."/><meta name="languageCode" content="en"/><meta name="countryCode" content="us"/><meta name="searchTitle" content="IBM Bob"/><meta name="focusArea" content="Cross IBM SDRs"/><meta name="primaryTaxonomyEn" content="AI assistants"/><meta name="siteSection" content="products"/><meta name="primaryTopic" content="AI assistants"/><meta name="productName" content="IBM Bob"/><meta name="ut-codes" content="10A00 &gt; 15ANP &gt; 177EB &gt; 20AJ5"/><meta name="ut-codes-id" content="10A00 - IBM Software &gt; 15ANP - Data Platform &gt; 177EB - AI Productivity &gt; 20AJ5 - AI Assistants"/><meta name="theme-color" content="#000000"/><meta name="keywords" content="IBM, Bob, AI, developer tools, signup"/><meta name="ibm.com.search.appid" content="products"/><meta name="ibm.com.search.scopes" content="products"/><meta name="dcterms.date" content="2025-10-06T19:36:11.517Z"/><meta name="ibm.search.facet.field_hierarchy_01" content="taxonomy : Product Types / Software"/><meta name="ibm.search.facet.field_hierarchy_02" content="taxonomy : Topics / Artificial intelligence / AI assistants"/><meta name="ibm.search.facet.field_hierarchy_03" content="taxonomy : Deployment Types / SaaS"/><meta name="robots" content="index, follow"/><meta name="author" content="IBM"/><meta property="og:title" content="404: Page not found | IBM Bob"/><meta property="og:description" content="We cannot find the page you&#x27;re looking for. The page might have been moved, deleted, or the URL might be incorrect."/><meta property="og:type" content="website"/><meta property="og:site_name" content="IBM Bob"/><meta property="og:image" content="https://bob.ibm.com/bob-og.png"/><meta property="og:image:alt" content="IBM Bob, a friendly robot with a smiling face wearing a blue to purple gradient hard hat holding code representing an AI partner."/><meta property="og:locale" content="en"/><meta property="og:locale:alternate" content="de"/><meta property="og:locale:alternate" content="es"/><meta property="og:locale:alternate" content="fr"/><meta property="og:locale:alternate" content="it"/><meta property="og:locale:alternate" content="ja"/><meta property="og:locale:alternate" content="ko"/><meta property="og:locale:alternate" content="pl"/><meta property="og:locale:alternate" content="pt"/><meta property="og:locale:alternate" content="tr"/><meta property="og:locale:alternate" content="zh-cn"/><meta property="og:locale:alternate" content="zh-tw"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="IBM Bob"/><meta name="twitter:description" content="We cannot find the page you&#x27;re looking for. The page might have been moved, deleted, or the URL might be incorrect."/><meta name="twitter:image" content="/bob-og.png"/><meta name="twitter:image:alt" content="IBM Bob, a friendly robot with a smiling face wearing a blue to purple gradient hard hat holding code representing an AI partner."/><meta name="twitter:site" content="@IBM"/><meta name="twitter:creator" content="@IBM"/><link rel="alternate" hrefLang="x-default" href="https://bob.ibm.com/static/media/bob-demo.gif"/><link rel="alternate" hrefLang="en" href="https://bob.ibm.com/static/media/bob-demo.gif"/><link rel="alternate" hrefLang="de" href="https://bob.ibm.com/static/media/bob-demo.gif"/><link rel="alternate" hrefLang="es" href="https://bob.ibm.com/static/media/bob-demo.gif"/><link rel="alternate" hrefLang="fr" href="https://bob.ibm.com/static/media/bob-demo.gif"/><link rel="alternate" hrefLang="it" href="https://bob.ibm.com/static/media/bob-demo.gif"/><link rel="alternate" hrefLang="ja" href="https://bob.ibm.com/static/media/bob-demo.gif"/><link rel="alternate" hrefLang="ko" href="https://bob.ibm.com/static/media/bob-demo.gif"/><link rel="alternate" hrefLang="pl" href="https://bob.ibm.com/static/media/bob-demo.gif"/><link rel="alternate" hrefLang="pt" href="https://bob.ibm.com/static/media/bob-demo.gif"/><link rel="alternate" hrefLang="tr" href="https://bob.ibm.com/static/media/bob-demo.gif"/><link rel="alternate" hrefLang="zh-cn" href="https://bob.ibm.com/static/media/bob-demo.gif"/><link rel="alternate" hrefLang="zh-tw" href="https://bob.ibm.com/static/media/bob-demo.gif"/><link rel="modulepreload" href="/assets/entry.client-DBVBKt1F.js"/><link rel="modulepreload" href="/assets/config-DoMDsI9W.js"/><link rel="modulepreload" href="/assets/logger.client-DZR3qCBE.js"/><link rel="modulepreload" href="/assets/i18next-rhCmUtD-.js"/><link rel="modulepreload" href="/assets/react-dom-DHHcT6kt.js"/><link rel="modulepreload" href="/assets/jsx-runtime-DkCKj1Ep.js"/><link rel="modulepreload" href="/assets/react-DgAe88G_.js"/><link rel="modulepreload" href="/assets/preload-helper-Cgn-HnS6.js"/><link rel="modulepreload" href="/assets/root-svqhYibk.js"/><link rel="modulepreload" href="/assets/ErrorPage-BhVTvTUX.js"/><link rel="modulepreload" href="/assets/AnalyticsLink-D9820-DU.js"/><link rel="modulepreload" href="/assets/AudienceOnly-CFrsq1XC.js"/><link rel="modulepreload" href="/assets/button-DhsYDq0R.js"/><link rel="modulepreload" href="/assets/utils-D_DcI-uZ.js"/><link rel="modulepreload" href="/assets/useTheme-CFQzDc6d.js"/><link rel="modulepreload" href="/assets/set-theme-BFrqm-0q.js"/><link rel="modulepreload" href="/assets/bundle-mjs-BftRMOcv.js"/><link rel="modulepreload" href="/assets/dist-BEj8AYJY.js"/><link rel="modulepreload" href="/assets/schemas-Cysrnqki.js"/><link rel="modulepreload" href="/assets/layout-f_f98vzP.js"/><link rel="modulepreload" href="/assets/NotFoundPage-CVnSFSKg.js"/><link rel="modulepreload" href="/assets/Header-Bcsx0ukX.js"/><link rel="modulepreload" href="/assets/avatar-CdRegTsR.js"/><link rel="modulepreload" href="/assets/types-dydINOIz.js"/><link rel="modulepreload" href="/assets/separator-CIXAsoSU.js"/><link rel="modulepreload" href="/assets/skeleton-CnNZF0mq.js"/><link rel="modulepreload" href="/assets/bucket-11-CJxxjFFH.js"/><link rel="modulepreload" href="/assets/dist-yKSbORwy.js"/><link rel="modulepreload" href="/assets/Show-DmZ0OfWK.js"/><link rel="modulepreload" href="/assets/utils-CTsLCS9i.js"/><link rel="modulepreload" href="/assets/Icon-DOOkepvL.js"/><link rel="modulepreload" href="/assets/dist-Bv02urqX.js"/><link rel="modulepreload" href="/assets/bucket-12-4UgTP1Ku.js"/><link rel="modulepreload" href="/assets/bucket-17-CkBk1R7-.js"/><link rel="modulepreload" href="/assets/bucket-3-iiURSxHo.js"/><link rel="modulepreload" href="/assets/dist-SrYtnicu.js"/><link rel="modulepreload" href="/assets/dist-BzkM70b8.js"/><link rel="modulepreload" href="/assets/dist-ClTqDkqp.js"/><link rel="modulepreload" href="/assets/dist-DNCGrhWD.js"/><link rel="modulepreload" href="/assets/dist-cIvsNtXV.js"/><link rel="modulepreload" href="/assets/dist-B11lnX5s.js"/><link rel="modulepreload" href="/assets/dist-DPqVA4wc.js"/><link rel="modulepreload" href="/assets/dist-Dgxgd793.js"/><link rel="modulepreload" href="/assets/not-found-CRTOywmT.js"/><link rel="modulepreload" href="/assets/PageMeta-DDSEtVFk.js"/><script>
+// This block of code allows us to check if the client hints have changed and
+// force a reload of the page with updated hints if they have so you don't get
+// a flash of incorrect content.
+function checkClientHints() {
+	if (!navigator.cookieEnabled) return;
+
+	// set a short-lived cookie to make sure we can set cookies
+	document.cookie = "canSetCookies=1; Max-Age=60; SameSite=Lax; path=/";
+	const canSetCookies = document.cookie.includes("canSetCookies=1");
+	document.cookie = "canSetCookies=; Max-Age=-1; path=/";
+	if (!canSetCookies) return;
+
+	const cookies = document.cookie.split(';').map(c => c.trim()).reduce((acc, cur) => {
+		const [key, value] = cur.split('=');
+		acc[key] = value;
+		return acc;
+	}, {});
+
+	let cookieChanged = false;
+	const hints = [
+	{ name: "ibm_bob_ch_color_scheme", actual: String(window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'), value: cookies["ibm_bob_ch_color_scheme"] != null ? cookies["ibm_bob_ch_color_scheme"] : encodeURIComponent("light") }
+	];
+	
+	// Add safety check to prevent infinite refresh scenarios
+	let reloadAttempts = parseInt(sessionStorage.getItem('clientHintReloadAttempts') || '0');
+	if (reloadAttempts > 3) {
+		console.warn('Too many client hint reload attempts, skipping reload to prevent infinite loop');
+		return;
+	}
+	
+	for (const hint of hints) {
+		document.cookie = encodeURIComponent(hint.name) + '=' + encodeURIComponent(hint.actual) + '; Max-Age=31536000; SameSite=Lax; path=/';
+		
+		try {
+			const decodedValue = decodeURIComponent(hint.value);
+			if (decodedValue !== hint.actual) {
+				cookieChanged = true;
+			}
+		} catch (error) {
+			// Handle malformed URI gracefully
+			console.warn('Failed to decode cookie value during client hint check:', error);
+			// If we can't decode the value, assume it's different to be safe
+			cookieChanged = true;
+		}
+	}
+	
+	if (cookieChanged) {
+		// Increment reload attempts counter
+		sessionStorage.setItem('clientHintReloadAttempts', String(reloadAttempts + 1));
+		
+		// Hide the page content immediately to prevent visual flicker
+		const style = document.createElement('style');
+		style.textContent = 'html { visibility: hidden !important; }';
+		document.head.appendChild(style);
+
+		// Trigger the reload
+		window.location.reload();
+	} else {
+		// Reset reload attempts counter if no reload was needed
+		sessionStorage.removeItem('clientHintReloadAttempts');
+	}
+}
+
+checkClientHints();
+</script><link rel="stylesheet" href="/assets/root-RNvnsogR.css"/><link rel="stylesheet" href="https://1.www.s81c.com/common/carbon/plex/sans.css"/><link rel="stylesheet" href="https://1.www.s81c.com/common/carbon/plex/mono.css"/><script type="application/ld+json">{"@context":"https://schema.org","@type":"SoftwareApplication","name":"IBM Bob","description":"IBM Bob is an AI SDLC (Software Development Lifecycle) partner.","applicationCategory":"DeveloperApplication","offers":{"@type":"Offer","availability":"https://schema.org/InStock"},"publisher":{"@type":"Organization","name":"IBM"}}</script><script>
+// Configure IBM Analytics before loading the script
+window._ibmAnalytics = {
+  settings: {
+    name: 'BobWeb',
+    isSpa: true,
+    tealiumProfileName: 'in-app-usage'
+  },
+  // Track first page view on load
+  onLoad: [["ibmStats.pageview", []]],
+  trustarc: {
+    isCookiePreferencesButtonAlwaysOn: false,
+    // Prevent TrustArc from auto-injecting cookie preferences link
+    // We're handling it manually in the footer
+    isCookiePreferencesInstalled: true
+  }
+};
+</script><script>
+const getMeta = (name) => document.getElementsByName(name)[0]?.content || '';
+const languageCode = getMeta('languageCode');
+const countryCode = getMeta('countryCode');
+const focusArea = getMeta('focusArea');
+const primaryTopic = getMeta('primaryTopic');
+const productName = getMeta('productName');
+
+window.digitalData = {
+  page: {
+    category: { primaryCategory: 'PC110' },
+	services: {
+	  google: { enabled: false },
+      messaging: { enabled: false }
+    },
+    taxonomy: { primaryTopic, productName, pageType: 'Product - Overview' },
+    pageInfo: {
+      UT30: '30A06',
+      pageID: 'IBM Bob',
+      productTitle: 'IBM Bob',
+      productCode: 'WW3066',
+      productCodeType: 'WWPC',
+      productId: '5900-BVU',
+      analytics: { category: 'Bob Web' },
+      language: 'en',
+      ibm: {
+        pageID: 'IBM Bob',
+        productTitle: 'IBM Bob',
+        analytics: { category: 'Bob Web' },
+        siteID: 'IBM_BobWeb',
+        country: countryCode,
+        messaging: {
+          routing: { focusArea, languageCode, regionCode: countryCode },
+          translation: { languageCode, regionCode: countryCode }
+        },
+        sections: 0,
+        patterns: 0,
+      },
+    },
+  },
+};
+</script><script defer="" src="//1.www.s81c.com/common/stats/ibm-common.js" type="text/javascript"></script><script>
+  (function(s,t,a,n){s[t]||(s[t]=a,n=s[a]=function(){n.q.push(arguments)},
+  n.q=[],n.v=2,n.l=1*new Date)})(window,"InstanaEumObject","ineum");
+
+  ineum('reportingUrl', 'https://eum-red-saas.instana.io');
+  ineum('key', 'xumuI7KoTnGbKjMZgcZooA');
+  ineum('trackSessions');
+  ineum('autoPageDetection', { titleAsPageName: true });
+</script><script defer="" crossorigin="anonymous" src="https://eum.instana.io/1.8.1/eum.min.js" integrity="sha384-qFzHZ5BC7HOPEBSYkbYSv+DBWrG34P1QW9mIaCR41db6yOJNYmH4antW6KLkc6v1"></script></head><body><noscript>You need to enable JavaScript to run this app.</noscript><header class="fixed top-0 left-0 right-0 z-50 h-14 bg-nav border-b border-nav-border flex justify-between"><div class="flex items-center"><a class="rounded-none outline-none lg:hover:bg-nav-hover focus-visible:ring-ring/50 focus-visible:ring-[3px] ring-inset transition-all border-t-3 lg:border-b-3 border-transparent flex items-center lg:py-4 lg:px-6 lg:font-light lg:text-nav-foreground lg:text-[1rem] lg:h-[3.5rem] p-3 text-nav-foreground text-lg hover:bg-nav-hover py-4 px-6 border-0! bg-transparent! hover:bg-nav-hover!" href="/" data-discover="true"><span class="text-base"><span class="font-light">IBM</span> <span class="font-bold">Bob</span></span></a><div class="hidden lg:flex justify-center items-center"><nav class="flex items-center" aria-label="Main navigation"><a class="rounded-none outline-none lg:hover:bg-nav-hover focus-visible:ring-ring/50 focus-visible:ring-[3px] ring-inset transition-all border-t-3 lg:border-b-3 border-transparent flex items-center lg:py-4 lg:px-6 lg:font-light lg:text-nav-foreground lg:text-[1rem] lg:h-[3.5rem] p-3 text-nav-foreground text-lg hover:bg-nav-hover" href="/pricing" data-discover="true"><span class="inline-flex items-center gap-1">Pricing</span></a><a class="rounded-none outline-none lg:hover:bg-nav-hover focus-visible:ring-ring/50 focus-visible:ring-[3px] ring-inset transition-all border-t-3 lg:border-b-3 border-transparent flex items-center lg:py-4 lg:px-6 lg:font-light lg:text-nav-foreground lg:text-[1rem] lg:h-[3.5rem] p-3 text-nav-foreground text-lg hover:bg-nav-hover" href="/docs" data-discover="true"><span class="inline-flex items-center gap-1">Docs</span></a><a rel="noopener noreferrer" class="rounded-none outline-none lg:hover:bg-nav-hover focus-visible:ring-ring/50 focus-visible:ring-[3px] ring-inset transition-all border-t-3 lg:border-b-3 border-transparent flex items-center lg:py-4 lg:px-6 lg:font-light lg:text-nav-foreground lg:text-[1rem] lg:h-[3.5rem] p-3 text-nav-foreground text-lg hover:bg-nav-hover" href="https://www.ibm.com/products/ai-coding-agent" target="_blank"><span class="inline-flex items-center gap-1">Enterprise<svg focusable="false" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="16" height="16" viewBox="0 0 32 32" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><path d="M10 6 10 8 22.59 8 6 24.59 7.41 26 24 9.41 24 22 26 22 26 6 10 6z"></path></svg></span></a></nav></div></div><div class="flex items-center justify-end px-4 lg:px-0"><div class="flex items-end"><div class="hidden lg:flex items-center"><div class="lg:hidden"><div data-state="closed"><button data-slot="button" data-variant="ghost" data-size="lg" class="inline-flex items-center gap-2 whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*=&#x27;size-&#x27;])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive select-none hover:text-accent-foreground h-12 px-8 group hover:bg-nav-hover dark:hover:bg-nav-hover rounded-none w-full justify-between has-[&gt;svg]:px-3 focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] ring-inset" type="button" aria-controls="radix-_R_llal_" aria-expanded="false" data-state="closed"><div class="flex gap-4 items-center"><svg focusable="false" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="16" height="16" viewBox="0 0 32 32" aria-hidden="true" class="h-3 w-3 rotate-0 dark:hidden" xmlns="http://www.w3.org/2000/svg"><path d="M16,12a4,4,0,1,1-4,4,4.0045,4.0045,0,0,1,4-4m0-2a6,6,0,1,0,6,6,6,6,0,0,0-6-6Z" transform="translate(0 .005)"></path><path d="M6.854 5.375H8.854V10.333H6.854z" transform="rotate(-45 7.86 7.856)"></path><path d="M2 15.005H7V17.005000000000003H2z"></path><path d="M5.375 23.147H10.333V25.147H5.375z" transform="rotate(-45 7.86 24.149)"></path><path d="M15 25.005H17V30.005H15z"></path><path d="M23.147 21.668H25.147V26.625999999999998H23.147z" transform="rotate(-45 24.152 24.149)"></path><path d="M25 15.005H30V17.005000000000003H25z"></path><path d="M21.668 6.854H26.625999999999998V8.854H21.668z" transform="rotate(-45 24.152 7.856)"></path><path d="M15 2.005H17V7.005H15z"></path></svg><svg focusable="false" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="16" height="16" viewBox="0 0 32 32" aria-hidden="true" class="h-3 w-3 rotate-90 hidden dark:block dark:rotate-0" xmlns="http://www.w3.org/2000/svg"><path d="M13.5025,5.4136A15.0755,15.0755,0,0,0,25.096,23.6082a11.1134,11.1134,0,0,1-7.9749,3.3893c-.1385,0-.2782.0051-.4178,0A11.0944,11.0944,0,0,1,13.5025,5.4136M14.98,3a1.0024,1.0024,0,0,0-.1746.0156A13.0959,13.0959,0,0,0,16.63,28.9973c.1641.006.3282,0,.4909,0a13.0724,13.0724,0,0,0,10.702-5.5556,1.0094,1.0094,0,0,0-.7833-1.5644A13.08,13.08,0,0,1,15.8892,4.38,1.0149,1.0149,0,0,0,14.98,3Z"></path></svg><span class="text-[1rem] font-normal">Theme</span></div><svg focusable="false" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" class="h-4 w-4 transition-transform group-data-[state=open]:rotate-90" xmlns="http://www.w3.org/2000/svg"><path d="M11 8 6 13 5.3 12.3 9.6 8 5.3 3.7 6 3z"></path></svg></button><div data-state="closed" id="radix-_R_llal_" hidden="" class="overflow-hidden"></div></div></div><button type="button" id="radix-_R_15lal_" aria-haspopup="menu" aria-expanded="false" data-state="closed" aria-label="Menu for theme switcher" class="hidden hover:bg-hover data-[state=open]:bg-popover data-[state=open]:[&amp;&gt;div]:border-transparent h-14 w-14 focus-visible:border-ring outline-none focus-visible:ring-ring/50 focus-visible:ring-[3px] ring-inset transition-all lg:flex justify-center items-center"><div class="flex items-center justify-center border p-2 rounded-full w-8 h-8"><svg focusable="false" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="16" height="16" viewBox="0 0 32 32" aria-hidden="true" class="h-4 w-4 scale-100 dark:hidden" xmlns="http://www.w3.org/2000/svg"><path d="M16,12a4,4,0,1,1-4,4,4.0045,4.0045,0,0,1,4-4m0-2a6,6,0,1,0,6,6,6,6,0,0,0-6-6Z" transform="translate(0 .005)"></path><path d="M6.854 5.375H8.854V10.333H6.854z" transform="rotate(-45 7.86 7.856)"></path><path d="M2 15.005H7V17.005000000000003H2z"></path><path d="M5.375 23.147H10.333V25.147H5.375z" transform="rotate(-45 7.86 24.149)"></path><path d="M15 25.005H17V30.005H15z"></path><path d="M23.147 21.668H25.147V26.625999999999998H23.147z" transform="rotate(-45 24.152 24.149)"></path><path d="M25 15.005H30V17.005000000000003H25z"></path><path d="M21.668 6.854H26.625999999999998V8.854H21.668z" transform="rotate(-45 24.152 7.856)"></path><path d="M15 2.005H17V7.005H15z"></path></svg><svg focusable="false" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="16" height="16" viewBox="0 0 32 32" aria-hidden="true" class="absolute h-4 w-4 hidden dark:block" xmlns="http://www.w3.org/2000/svg"><path d="M13.5025,5.4136A15.0755,15.0755,0,0,0,25.096,23.6082a11.1134,11.1134,0,0,1-7.9749,3.3893c-.1385,0-.2782.0051-.4178,0A11.0944,11.0944,0,0,1,13.5025,5.4136M14.98,3a1.0024,1.0024,0,0,0-.1746.0156A13.0959,13.0959,0,0,0,16.63,28.9973c.1641.006.3282,0,.4909,0a13.0724,13.0724,0,0,0,10.702-5.5556,1.0094,1.0094,0,0,0-.7833-1.5644A13.08,13.08,0,0,1,15.8892,4.38,1.0149,1.0149,0,0,0,14.98,3Z"></path></svg></div></button><div class="lg:hidden mb-8"><div data-state="closed"><button data-slot="button" data-variant="ghost" data-size="lg" class="inline-flex items-center gap-2 whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*=&#x27;size-&#x27;])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive select-none hover:text-accent-foreground h-12 px-8 group hover:bg-nav-hover dark:hover:bg-nav-hover rounded-none w-full justify-between has-[&gt;svg]:px-3 focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] ring-inset" type="button" aria-controls="radix-_R_2plal_" aria-expanded="false" data-state="closed"><div class="flex gap-4 items-center"><svg focusable="false" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="16" height="16" viewBox="0 0 32 32" aria-hidden="true" class="h-3 w-3" xmlns="http://www.w3.org/2000/svg"><path d="M16,2A14,14,0,1,0,30,16,14,14,0,0,0,16,2ZM28,15H22A24.26,24.26,0,0,0,19.21,4.45,12,12,0,0,1,28,15ZM16,28a5,5,0,0,1-.67,0A21.85,21.85,0,0,1,12,17H20a21.85,21.85,0,0,1-3.3,11A5,5,0,0,1,16,28ZM12,15a21.85,21.85,0,0,1,3.3-11,6,6,0,0,1,1.34,0A21.85,21.85,0,0,1,20,15Zm.76-10.55A24.26,24.26,0,0,0,10,15h-6A12,12,0,0,1,12.79,4.45ZM4.05,17h6a24.26,24.26,0,0,0,2.75,10.55A12,12,0,0,1,4.05,17ZM19.21,27.55A24.26,24.26,0,0,0,22,17h6A12,12,0,0,1,19.21,27.55Z"></path></svg><span class="text-[1rem] font-normal">Language</span></div><svg focusable="false" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" class="h-4 w-4 transition-transform group-data-[state=open]:rotate-90" xmlns="http://www.w3.org/2000/svg"><path d="M11 8 6 13 5.3 12.3 9.6 8 5.3 3.7 6 3z"></path></svg></button><div data-state="closed" id="radix-_R_2plal_" hidden="" class="overflow-hidden"></div></div></div><button type="button" id="radix-_R_4plal_" aria-haspopup="menu" aria-expanded="false" data-state="closed" aria-label="Menu for language switcher" class="hidden hover:bg-hover data-[state=open]:bg-popover data-[state=open]:[&amp;&gt;div]:border-transparent h-14 w-14 focus-visible:border-ring outline-none focus-visible:ring-ring/50 focus-visible:ring-[3px] ring-inset transition-all lg:flex justify-center items-center"><div class="flex items-center justify-center border p-2 rounded-full w-8 h-8"><svg focusable="false" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="16" height="16" viewBox="0 0 32 32" aria-hidden="true" class="h-4 w-4" xmlns="http://www.w3.org/2000/svg"><path d="M16,2A14,14,0,1,0,30,16,14,14,0,0,0,16,2ZM28,15H22A24.26,24.26,0,0,0,19.21,4.45,12,12,0,0,1,28,15ZM16,28a5,5,0,0,1-.67,0A21.85,21.85,0,0,1,12,17H20a21.85,21.85,0,0,1-3.3,11A5,5,0,0,1,16,28ZM12,15a21.85,21.85,0,0,1,3.3-11,6,6,0,0,1,1.34,0A21.85,21.85,0,0,1,20,15Zm.76-10.55A24.26,24.26,0,0,0,10,15h-6A12,12,0,0,1,12.79,4.45ZM4.05,17h6a24.26,24.26,0,0,0,2.75,10.55A12,12,0,0,1,4.05,17ZM19.21,27.55A24.26,24.26,0,0,0,22,17h6A12,12,0,0,1,19.21,27.55Z"></path></svg></div></button><div class="flex gap-5 mr-3 ml-2"><div data-slot="skeleton" class="bg-accent animate-pulse h-8 rounded-full px-4"><span class="invisible text-sm font-medium">Download</span></div><div data-slot="skeleton" class="bg-accent animate-pulse w-8 h-8 rounded-full"></div></div></div><div class="lg:hidden"><button type="button" class="p-2 text-foreground hover:bg-hover rounded focus:outline-none focus:ring-2 focus:ring-ring" aria-label="Open menu" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-_R_2lal_" data-state="closed" data-slot="sheet-trigger"><svg focusable="false" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><path d="M3 18H21V19.5H3z"></path><path d="M3 13.5H21V15H3z"></path><path d="M3 9H21V10.5H3z"></path><path d="M3 4.5H21V6H3z"></path></svg></button></div></div></div></header><main class="flex min-h-screen w-full flex-col items-center gap-8 px-4 pb-4 pt-32 md:gap-16 md:px-6 lg:px-8"><div class="flex flex-col items-center gap-3 px-4 text-center md:gap-6 md:px-0"><h1 class="text-xl font-semibold leading-6 text-cool-gray-100 dark:text-cool-gray-20 md:text-2xl md:leading-7 xl:text-[clamp(1.5rem,1.5vw+0.25rem,2.5rem)] xl:leading-[1.2]">404: Page not found</h1><p class="max-w-[90vw] text-sm leading-5 text-cool-gray-100 dark:text-cool-gray-10 md:max-w-[523px] md:text-base md:leading-6 xl:max-w-[785px] xl:text-[clamp(1rem,0.75vw+0.125rem,1.5rem)] xl:leading-[1.33]">We cannot find the page you&#x27;re looking for. The page might have been moved, deleted, or the URL might be incorrect.</p></div><div class="relative w-full max-w-[min(90vw,max(350px,min(calc(100vh-250px),1400px)))]" style="aspect-ratio:700 / 286.555"><img src="/assets/404-bob-illustration-BOOW3JLR.svg" alt="Bob character searching for page" class="block h-full w-full object-contain dark:hidden"/><img src="/assets/404-bob-illustration-Cb4MlvTr.svg" alt="Bob character searching for page" class="hidden h-full w-full object-contain dark:block"/></div><a data-slot="button" data-variant="bob" data-size="default" class="inline-flex items-center justify-center gap-2 whitespace-nowrap text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*=&#x27;size-&#x27;])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive select-none rounded-full text-white [background:var(--bob-btn-gradient-primary)] hover:[background:var(--bob-btn-gradient-hover)] disabled:[background:var(--bob-btn-gradient-disabled)] h-10 px-6 has-[&gt;svg]:px-3" href="/" data-discover="true">Return home</a></main><footer class="bg-footer border-t border-t-footer-border py-12 px-6"><div class="max-w-6xl mx-auto"><div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-8"><div class="flex flex-col gap-8 md:gap-16"><div><div class="flex items-center gap-2"><img src="/icon.svg" alt="IBM Bob" class="dark:hidden w-8 h-8"/><img src="/icon-dark.svg" alt="IBM Bob" class="hidden dark:block w-8 h-8"/><span class="text-base"><span class="font-light">IBM</span> <span class="font-bold">Bob</span></span></div></div><div class="flex gap-3"><div class="flex gap-3"><a href="https://www.linkedin.com/company/110160527" aria-label="LinkedIn" class="w-10 h-10 flex items-center justify-center border border-footer-border rounded-lg hover:border-blue-40" target="_blank" rel="noopener noreferrer"><svg focusable="false" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="16" height="16" viewBox="0 0 32 32" aria-hidden="true" class="w-6 h-6 fill-footer-link" xmlns="http://www.w3.org/2000/svg"><path d="M26.2,4H5.8C4.8,4,4,4.8,4,5.7v20.5c0,0.9,0.8,1.7,1.8,1.7h20.4c1,0,1.8-0.8,1.8-1.7V5.7C28,4.8,27.2,4,26.2,4z M11.1,24.4 H7.6V13h3.5V24.4z M9.4,11.4c-1.1,0-2.1-0.9-2.1-2.1c0-1.2,0.9-2.1,2.1-2.1c1.1,0,2.1,0.9,2.1,2.1S10.5,11.4,9.4,11.4z M24.5,24.3 H21v-5.6c0-1.3,0-3.1-1.9-3.1c-1.9,0-2.1,1.5-2.1,2.9v5.7h-3.5V13h3.3v1.5h0.1c0.5-0.9,1.7-1.9,3.4-1.9c3.6,0,4.3,2.4,4.3,5.5V24.3z"></path></svg></a><a href="https://www.youtube.com/@ibm-bob" aria-label="YouTube" class="w-10 h-10 flex items-center justify-center border border-footer-border rounded-lg hover:border-blue-40" target="_blank" rel="noopener noreferrer"><svg focusable="false" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="16" height="16" viewBox="0 0 32 32" aria-hidden="true" class="w-6 h-6 fill-footer-link" xmlns="http://www.w3.org/2000/svg"><path d="M29.41,9.26a3.5,3.5,0,0,0-2.47-2.47C24.76,6.2,16,6.2,16,6.2s-8.76,0-10.94.59A3.5,3.5,0,0,0,2.59,9.26,36.13,36.13,0,0,0,2,16a36.13,36.13,0,0,0,.59,6.74,3.5,3.5,0,0,0,2.47,2.47C7.24,25.8,16,25.8,16,25.8s8.76,0,10.94-.59a3.5,3.5,0,0,0,2.47-2.47A36.13,36.13,0,0,0,30,16,36.13,36.13,0,0,0,29.41,9.26ZM13.2,20.2V11.8L20.47,16Z"></path></svg></a></div></div></div><div class="flex justify-center"><div class="flex flex-col sm:flex-row sm:flex-wrap gap-12 sm:gap-8 md:gap-12 lg:gap-30"><div><h3 class="text-foreground font-semibold text-sm mb-4 tracking-wide">Bob</h3><ul class="space-y-3"><li><a aria-label="Download" class="text-footer-link hover:text-blue-40 text-sm" href="/download" data-discover="true">Download</a></li><li><a aria-label="Free Trial" class="text-footer-link hover:text-blue-40 text-sm" href="/trial" data-discover="true">Free Trial</a></li><li><a aria-label="Pricing" class="text-footer-link hover:text-blue-40 text-sm" href="/pricing" data-discover="true">Pricing</a></li></ul></div><div><h3 class="text-foreground font-semibold text-sm mb-4 tracking-wide">Resources</h3><ul class="space-y-3"><li><a aria-label="Docs" class="text-footer-link hover:text-blue-40 text-sm" href="/docs" data-discover="true">Docs</a></li><li><a aria-label="Changelog" class="text-footer-link hover:text-blue-40 text-sm" href="/docs/ide/changelog" data-discover="true">Changelog</a></li><li><a href="https://community.ibm.com/community/user/groups/community-home?CommunityKey=300ac388-08f0-427e-a600-0199bfc9dd2a" class="text-footer-link hover:text-blue-40 text-sm" target="_blank" rel="noopener noreferrer">Help Center</a></li></ul></div><div><h3 class="text-foreground font-semibold text-sm mb-4 tracking-wide">Legal</h3><ul class="space-y-3"><li><a href="https://www.ibm.com/legal" class="text-footer-link hover:text-blue-40 text-sm" target="_blank" rel="noopener noreferrer">Terms of Service</a></li><li><a href="https://www.ibm.com/us-en/privacy" class="text-footer-link hover:text-blue-40 text-sm" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li><li><a href="#cookies" class="text-footer-link hover:text-blue-40 text-sm">Cookie Preferences</a></li></ul></div></div></div><div class="flex items-center ml-auto sm:ml-0"><svg xmlns="http://www.w3.org/2000/svg" fill="none" aria-labelledby="ibm-logo-title" class="text-black dark:text-white w-24" role="img" viewBox="0 0 97 36"><title id="ibm-logo-title">IBM</title><path fill="currentColor" d="M92.664 34.032c0-1.115.85-1.965 1.908-1.965 1.06 0 1.909.85 1.909 1.965s-.85 1.966-1.909 1.966c-1.058 0-1.908-.85-1.908-1.966m3.37.125v-.247c0-.802-.63-1.432-1.462-1.432-.831 0-1.46.63-1.46 1.432v.247c0 .802.629 1.432 1.46 1.432.832 0 1.461-.63 1.461-1.432m-1.748.889H93.8V33.05h.907c.447 0 .677.268.677.63 0 .315-.144.515-.364.601l.448.764h-.534l-.373-.686h-.277v.686zm.364-1.05c.152 0 .238-.066.238-.209v-.143c0-.143-.086-.21-.238-.21h-.364v.564h.364zM0 33.398h17.495v2.5H0zm0-2.272h17.495v-2.499H0zm4.998-4.77h7.498v-2.5H4.998zm0-4.772h7.498v-2.5H4.998zm0-4.771h7.498v-2.5H4.998zm7.498-7.27H4.998v2.499h7.498zM0 7.27h17.495V4.771H0zM0 2.5h17.495V0H0zm19.994 28.627H46.66a9.5 9.5 0 0 0 1.007-2.5H19.996v2.5zm24.578-12.042h-19.58v2.5h21.666a9.6 9.6 0 0 0-2.086-2.5m-19.58-4.771v2.499h19.58a9.6 9.6 0 0 0 2.086-2.5zM46.66 4.77H19.994v2.5h27.67a9.5 9.5 0 0 0-1.006-2.5zM38.397 0H19.994v2.5h24.84A9.5 9.5 0 0 0 38.397 0M24.992 12.042h7.498v-2.5h-7.498zm14.541 0h8.072a9.5 9.5 0 0 0 .334-2.5h-8.406zm-14.54 14.313h7.497v-2.499h-7.498zm14.54-2.499v2.5h8.406c0-.866-.118-1.702-.334-2.5zm-19.54 12.042h18.404c2.5 0 4.74-.948 6.437-2.5h-24.84zm49.985 0 .868-2.5h-1.738l.868 2.5zm-1.665-4.772h3.333l.877-2.499h-5.087zm-1.675-4.77h6.682l.877-2.5h-8.438l.877 2.5zm-1.674-4.772h10.033l.877-2.5H64.087zm-9.98-9.542h13.503l-.87-2.5H54.983v2.5zM73.133 7.27h16.842V4.771H74.002zM75.658 0l-.868 2.5h15.182V0zM49.984 35.898H62.48v-2.5H49.984zm0-4.772H62.48v-2.499H49.984zm4.999-4.77h7.497v-2.5h-7.497zm0-4.772h7.497v-2.5h-7.497zm29.99-12.042H72.341l-.87 2.5h13.502zm-7.498 7.27h7.498v-2.498H70.68l-.702 2.02-.702-2.02H54.983v2.499h7.497v-2.297l.807 2.297h13.382l.806-2.297zm7.498 2.273h-7.498v2.5h7.498zm-7.498 7.27h7.498v-2.499h-7.498zm0 4.772h12.497v-2.5H77.476zm0 4.77h12.497V33.4H77.476zM66.828 7.27l-.87-2.499H49.984v2.5zm-1.66-4.77-.87-2.5H49.984v2.5z"></path></svg></div></div></div></footer><script>((storageKey2, restoreKey) => {
+    if (!window.history.state || !window.history.state.key) {
+      let key = Math.random().toString(32).slice(2);
+      window.history.replaceState({ key }, "");
+    }
+    try {
+      let positions = JSON.parse(sessionStorage.getItem(storageKey2) || "{}");
+      let storedY = positions[restoreKey || window.history.state.key];
+      if (typeof storedY === "number") {
+        window.scrollTo(0, storedY);
+      }
+    } catch (error) {
+      console.error(error);
+      sessionStorage.removeItem(storageKey2);
+    }
+  })("react-router-scroll-positions", null)</script><script>window.__reactRouterContext = {"basename":"/","future":{"unstable_optimizeDeps":false,"unstable_subResourceIntegrity":false,"unstable_trailingSlashAwareDataRequests":false,"v8_middleware":true,"v8_splitRouteModules":false,"v8_viteEnvironmentApi":false},"routeDiscovery":{"mode":"lazy","manifestPath":"/__manifest"},"ssr":true,"isSpaMode":false};window.__reactRouterContext.stream = new ReadableStream({start(controller){window.__reactRouterContext.streamController = controller;}}).pipeThrough(new TextEncoderStream());</script><script type="module" async="">;
+import * as route0 from "/assets/root-svqhYibk.js";
+import * as route1 from "/assets/layout-f_f98vzP.js";
+import * as route2 from "/assets/not-found-CRTOywmT.js";
+  window.__reactRouterManifest = {
+  "entry": {
+    "module": "/assets/entry.client-DBVBKt1F.js",
+    "imports": [
+      "/assets/config-DoMDsI9W.js",
+      "/assets/logger.client-DZR3qCBE.js",
+      "/assets/i18next-rhCmUtD-.js",
+      "/assets/react-dom-DHHcT6kt.js",
+      "/assets/jsx-runtime-DkCKj1Ep.js",
+      "/assets/react-DgAe88G_.js",
+      "/assets/preload-helper-Cgn-HnS6.js"
+    ],
+    "css": []
+  },
+  "routes": {
+    "root": {
+      "id": "root",
+      "path": "",
+      "hasAction": false,
+      "hasLoader": true,
+      "hasClientAction": false,
+      "hasClientLoader": false,
+      "hasClientMiddleware": false,
+      "hasErrorBoundary": true,
+      "module": "/assets/root-svqhYibk.js",
+      "imports": [
+        "/assets/config-DoMDsI9W.js",
+        "/assets/logger.client-DZR3qCBE.js",
+        "/assets/i18next-rhCmUtD-.js",
+        "/assets/react-dom-DHHcT6kt.js",
+        "/assets/jsx-runtime-DkCKj1Ep.js",
+        "/assets/react-DgAe88G_.js",
+        "/assets/preload-helper-Cgn-HnS6.js",
+        "/assets/ErrorPage-BhVTvTUX.js",
+        "/assets/AnalyticsLink-D9820-DU.js",
+        "/assets/AudienceOnly-CFrsq1XC.js",
+        "/assets/button-DhsYDq0R.js",
+        "/assets/utils-D_DcI-uZ.js",
+        "/assets/useTheme-CFQzDc6d.js",
+        "/assets/set-theme-BFrqm-0q.js",
+        "/assets/bundle-mjs-BftRMOcv.js",
+        "/assets/dist-BEj8AYJY.js",
+        "/assets/schemas-Cysrnqki.js"
+      ],
+      "css": [
+        "/assets/root-RNvnsogR.css"
+      ]
+    },
+    "routes/layout": {
+      "id": "routes/layout",
+      "parentId": "root",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasClientAction": false,
+      "hasClientLoader": false,
+      "hasClientMiddleware": false,
+      "hasErrorBoundary": true,
+      "module": "/assets/layout-f_f98vzP.js",
+      "imports": [
+        "/assets/NotFoundPage-CVnSFSKg.js",
+        "/assets/ErrorPage-BhVTvTUX.js",
+        "/assets/AnalyticsLink-D9820-DU.js",
+        "/assets/Header-Bcsx0ukX.js",
+        "/assets/button-DhsYDq0R.js",
+        "/assets/avatar-CdRegTsR.js",
+        "/assets/types-dydINOIz.js",
+        "/assets/separator-CIXAsoSU.js",
+        "/assets/skeleton-CnNZF0mq.js",
+        "/assets/utils-D_DcI-uZ.js",
+        "/assets/useTheme-CFQzDc6d.js",
+        "/assets/config-DoMDsI9W.js",
+        "/assets/logger.client-DZR3qCBE.js",
+        "/assets/set-theme-BFrqm-0q.js",
+        "/assets/bucket-11-CJxxjFFH.js",
+        "/assets/dist-yKSbORwy.js",
+        "/assets/react-dom-DHHcT6kt.js",
+        "/assets/jsx-runtime-DkCKj1Ep.js",
+        "/assets/react-DgAe88G_.js",
+        "/assets/bundle-mjs-BftRMOcv.js",
+        "/assets/dist-BEj8AYJY.js",
+        "/assets/preload-helper-Cgn-HnS6.js",
+        "/assets/AudienceOnly-CFrsq1XC.js",
+        "/assets/Show-DmZ0OfWK.js",
+        "/assets/utils-CTsLCS9i.js",
+        "/assets/Icon-DOOkepvL.js",
+        "/assets/dist-Bv02urqX.js",
+        "/assets/bucket-12-4UgTP1Ku.js",
+        "/assets/bucket-17-CkBk1R7-.js",
+        "/assets/bucket-3-iiURSxHo.js",
+        "/assets/dist-SrYtnicu.js",
+        "/assets/dist-BzkM70b8.js",
+        "/assets/dist-ClTqDkqp.js",
+        "/assets/dist-DNCGrhWD.js",
+        "/assets/dist-cIvsNtXV.js",
+        "/assets/dist-B11lnX5s.js",
+        "/assets/dist-DPqVA4wc.js",
+        "/assets/dist-Dgxgd793.js",
+        "/assets/schemas-Cysrnqki.js"
+      ],
+      "css": []
+    },
+    "routes/not-found": {
+      "id": "routes/not-found",
+      "parentId": "routes/layout",
+      "path": "*",
+      "hasAction": false,
+      "hasLoader": true,
+      "hasClientAction": false,
+      "hasClientLoader": false,
+      "hasClientMiddleware": false,
+      "hasErrorBoundary": false,
+      "module": "/assets/not-found-CRTOywmT.js",
+      "imports": [
+        "/assets/NotFoundPage-CVnSFSKg.js",
+        "/assets/AnalyticsLink-D9820-DU.js",
+        "/assets/PageMeta-DDSEtVFk.js",
+        "/assets/button-DhsYDq0R.js",
+        "/assets/utils-D_DcI-uZ.js",
+        "/assets/config-DoMDsI9W.js",
+        "/assets/logger.client-DZR3qCBE.js",
+        "/assets/jsx-runtime-DkCKj1Ep.js",
+        "/assets/react-DgAe88G_.js",
+        "/assets/bundle-mjs-BftRMOcv.js",
+        "/assets/dist-BEj8AYJY.js",
+        "/assets/preload-helper-Cgn-HnS6.js"
+      ],
+      "css": []
+    },
+    "routes/home/route": {
+      "id": "routes/home/route",
+      "parentId": "routes/layout",
+      "index": true,
+      "hasAction": false,
+      "hasLoader": true,
+      "hasClientAction": false,
+      "hasClientLoader": false,
+      "hasClientMiddleware": false,
+      "hasErrorBoundary": false,
+      "module": "/assets/route-C9SvmGaH.js",
+      "imports": [
+        "/assets/HeroBackground-TmXG33Np.js",
+        "/assets/AnalyticsLink-D9820-DU.js",
+        "/assets/AudienceOnly-CFrsq1XC.js",
+        "/assets/PageMeta-DDSEtVFk.js",
+        "/assets/Show-DmZ0OfWK.js",
+        "/assets/avatar-CdRegTsR.js",
+        "/assets/button-DBNdVewX.js",
+        "/assets/skeleton-CnNZF0mq.js",
+        "/assets/utils-D_DcI-uZ.js",
+        "/assets/useTheme-CFQzDc6d.js",
+        "/assets/config-DoMDsI9W.js",
+        "/assets/logger.client-DZR3qCBE.js",
+        "/assets/subscription-utils-xBUJ2CDy.js",
+        "/assets/set-theme-BFrqm-0q.js",
+        "/assets/dist-Bv02urqX.js",
+        "/assets/bucket-17-CkBk1R7-.js",
+        "/assets/bucket-18-CA_XTh0A.js",
+        "/assets/bucket-19-7xzPUpDv.js",
+        "/assets/bucket-4-C2uxrLAL.js",
+        "/assets/i18next-rhCmUtD-.js",
+        "/assets/react-dom-DHHcT6kt.js",
+        "/assets/jsx-runtime-DkCKj1Ep.js",
+        "/assets/react-DgAe88G_.js",
+        "/assets/bundle-mjs-BftRMOcv.js",
+        "/assets/dist-BEj8AYJY.js",
+        "/assets/preload-helper-Cgn-HnS6.js",
+        "/assets/dist-B11lnX5s.js",
+        "/assets/dist-DPqVA4wc.js",
+        "/assets/Icon-DOOkepvL.js",
+        "/assets/schemas-Cysrnqki.js"
+      ],
+      "css": []
+    }
+  },
+  "url": "/assets/manifest-60160c3e.js",
+  "version": "60160c3e"
+};
+  window.__reactRouterRouteModules = {"root":route0,"routes/layout":route1,"routes/not-found":route2};
+
+import("/assets/entry.client-DBVBKt1F.js");</script><script src="https://1.www.s81c.com/common/carbon/plex/load-non-latin-plex.js"></script><script defer="" src="https://www.ibm.com/account/ibmidutil/widget/js/loader.js"></script><script defer="" src="https://www.ibm.com/account/ibmidutil/widget/js/main.js"></script><!--$--><script>window.__reactRouterContext.streamController.enqueue("[{\"_1\":2,\"_24\":-5,\"_25\":-5},\"loaderData\",{\"_3\":4,\"_23\":-5},\"root\",{\"_5\":6,\"_9\":10,\"_13\":14},\"hints\",{\"_7\":8},\"theme\",\"light\",\"userPrefs\",{\"_11\":12,\"_7\":8},\"locale\",\"en\",\"env\",{\"_15\":16,\"_17\":18,\"_19\":20,\"_21\":22},\"DEPLOYMENT_ENV\",\"production\",\"SEGMENT_KEY\",\"BSwdAXPnrkkg49yMh1FMwgVTwo0pkRNz\",\"INSTANA_KEY\",\"xumuI7KoTnGbKjMZgcZooA\",\"BOB_BASE_URL\",\"https://bob.ibm.com\",\"routes/not-found\",\"actionData\",\"errors\"]\n");</script><!--$--><script>window.__reactRouterContext.streamController.close();</script><!--/$--><!--/$--><script id="_R_">window.__LOGGER_CONFIG__={"logLevel":"warn","environment":"production","buildId":"1774378007036"};</script></body></html>
