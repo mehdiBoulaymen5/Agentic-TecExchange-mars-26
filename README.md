@@ -1,7 +1,7 @@
 # IBM TechXchange 2026 - Bob Labs
 ## March 26, 2026
 
-![IBM Bob Demo](media/bob-demo.gif)
+![IBM Bob](media/bob-hero.svg)
 
 Welcome to the IBM TechXchange 2026 Bob Labs! This hands-on event features three interactive labs designed to showcase the power of **IBM Bob**, your AI-powered development partner.
 
