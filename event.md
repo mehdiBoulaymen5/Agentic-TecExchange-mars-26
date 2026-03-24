@@ -1,6 +1,8 @@
 # IBM TechXchange 2026 - Bob Labs
 ## March 26, 2026
 
+![IBM Bob](https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/creative-assets/s-migr/ul/g/6b/c0/bob-icon.component.xl.ts=1710432203535.png/content/adobe-cms/us/en/products/bob/jcr:content/root/table_of_contents/body/content_section_styled/content-section-body/simple_narrative/image)
+
 Welcome to the IBM TechXchange 2026 Bob Labs! This hands-on event features three interactive labs designed to showcase the power of **IBM Bob**, your AI-powered development partner.
 
 ---
@@ -26,8 +28,6 @@ Bob is built on agentic AI principles, offering multiple specialized modes to as
 - **Multi-Language Support**: Works with Python, Java, JavaScript, TypeScript, and many more languages
 - **Integrated Tools**: Seamlessly execute commands, manage files, and interact with your development environment
 - **Security-First**: Built-in security scanning and best practices recommendations
-
-![Bob Interface](media/Bob-labs.png)
 
 ---
 
@@ -68,7 +68,7 @@ You'll work with a comprehensive dataset containing 30 years of global employmen
 - **Country Comparison**: Compare metrics across different countries
 - **Database Integration**: Connect to PostgreSQL for production-ready deployments
 
-**Location**: `datascience-lab/`
+**📂 [Go to Lab](./datascience-lab/)**
 
 ---
 
@@ -99,7 +99,7 @@ You've been given a deliberately vulnerable web application - a simple message b
 - **Trivy** - Container vulnerability scanner
 - **npm audit** - Built-in Node.js dependency security checker
 
-**Location**: `IT-automation-lab/DevSecOps-lab/`
+**📂 [Go to Lab](./IT-automation-lab/DevSecOps-lab/)**
 
 #### 2B: Docker Container Management Lab (~30 minutes)
 
@@ -123,7 +123,7 @@ Create an Infrastructure as Code solution that provisions and configures a multi
 **Architecture:**
 The lab creates a Docker network (`tx-net`), an Nginx container (`tx-web`) exposed on port 8080, a Redis container (`tx-redis`) exposed on port 6379, with health checks and resource constraints.
 
-**Location**: `IT-automation-lab/Docker-container-management-lab/`
+**📂 [Go to Lab](./IT-automation-lab/Docker-container-management-lab/)**
 
 ---
 
@@ -168,7 +168,7 @@ You'll work with the Tinify API client for Java - a real-world library that comp
 - Build plugins and configurations
 - Code patterns to leverage modern Java features
 
-**Location**: `java-upgrade/`
+**📂 [Go to Lab](./java-upgrade/)**
 
 ---
 
